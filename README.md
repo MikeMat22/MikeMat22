@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Michal
 
-<!--
-**MikeMat22/MikeMat22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IBM Certified AI & Deep Learning Developer  
+☁️ AWS Cloud Solutions Architect – Professional Certificate  
+🧠 Focused on Machine Learning, LLMs, PyTorch, and scalable AI apps  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🔬 [LLM Data Prep Tool](#) – Tool for cleaning/tokenizing text for fine-tuning large language models  
+- 📊 [Sentiment Classifier in PyTorch](#) – Text classification using neural networks  
+- ☁️ [AI App Hosted on AWS](#) – Simple AI prediction app deployed with EC2 & S3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 My Certificates
+- 🏅 [AI + Cloud Badge Wall](#)  
+- 📜 IBM, AWS, Google – 15+ verified credentials
+
+## 🌐 Links
+- [LinkedIn](https://www.linkedin.com/in/michal-matejcek/)
+- [Portfolio Website](#) (coming soon)
+
+---
+
+> “Build now. Learn always. Ship fast.” 🚀
