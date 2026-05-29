@@ -1,7 +1,7 @@
 #  Hi, I'm Michal
 
 IBM Certified AI & Deep Learning Developer  
-AWS Cloud Solutions Architect – Professional Certificate  
+AWS Cloud Solutions Architect 
 Focused on Machine Learning, LLMs, PyTorch, and scalable AI apps  
 
 ##  Projects
