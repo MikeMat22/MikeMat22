@@ -10,8 +10,10 @@ Focused on Machine Learning, LLMs, PyTorch, and scalable AI apps
 - [AI App Hosted on AWS] – Simple AI prediction app deployed with EC2 & S3
 
 ## My Certificates
--  [AI + Cloud Badge Wall]  
--  IBM, AWS, Google – 15+ verified credentials
+- AWS Cloud Solutions Architect — Professional Certificate
+- IBM AI Engineering — Professional Certificate
+- Google Data Analytics — Professional Certificate
+- 15+ verified credentials across AI, Cloud & Data
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/michal-matejcek/)
