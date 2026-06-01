@@ -14,7 +14,7 @@ Focused on Machine Learning, LLMs, PyTorch, and scalable AI apps
                                   Qiskit · Python
 - [Production Reporting Toolkit] - Self-service weekly reporting toolkit for a manufacturing environment — an Excel dashboard paired with a Python-generated PowerPoint deck,                                          covering shift-level production data across multiple product lines with an expected-vs-actual output variance metric.
                                   Python · python-pptx · openpyxl · pandas
-- [UK TaxMate] · uktaxmate.com - UK tax SaaS for sole traders and landlords preparing for the MTD ITSA deadline. Tax calculator with automated PDF report generation.
+- [UK TaxMate] · uktaxmate.co.uk - UK tax SaaS for sole traders and landlords preparing for the MTD ITSA deadline. Tax calculator with automated PDF report generation.
                                   Next.js · FastAPI · Python · Stripe
 - [AgentForge] - Drag-and-drop, no-code AI agent builder for non-technical users. Compose, configure, and deploy AI agents through a visual interface. Freemium model.
                                   React · Next.js · FastAPI · LangChain · Supabase
